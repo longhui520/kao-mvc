@@ -1,0 +1,24 @@
+{
+  "name": "koa-mvc",
+  "version": "1.0.0",
+  "description": "基于koa2 的mvc框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longhui520/koa-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longhui520/koa-mvc/issues"
+  },
+  "homepage": "https://github.com/longhui520/koa-mvc#readme",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "koa": "^2.13.0"
+  }
+}
