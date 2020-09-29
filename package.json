@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/longhui520/koa-mvc#readme",
   "dependencies": {
+    "assert": "^2.0.0",
+    "debug": "^4.2.0",
+    "depd": "^2.0.0",
     "glob": "^7.1.6",
     "koa": "^2.13.0"
   }
